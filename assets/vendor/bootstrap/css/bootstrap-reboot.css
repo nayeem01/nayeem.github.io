@@ -465,9 +465,9 @@ output {
   display: inline-block;
 }
 
-/* iframe {
+iframe {
   border: 0;
-} */
+}
 
 summary {
   display: list-item;
