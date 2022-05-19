@@ -106,6 +106,24 @@ h1, h2, h3, h4, h5, h6 {
   height: 36px;
   transition: 0.3s;
 }
+
+.social-links-2 a {
+  font-size: 20px;
+  display: inline-block;
+  color: #fff;
+  line-height: 1;
+  margin-right: 4px;
+  width: 50px;
+  height: 37px;
+}
+
+ /* .social-links-2 a:hover {
+  background: #e6d5e2;
+  color: #fff;
+  text-decoration: none;
+} */
+
+
 #header .profile .social-links a:hover {
   background: #149ddd;
   color: #fff;
