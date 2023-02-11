@@ -117,12 +117,22 @@ h1, h2, h3, h4, h5, h6 {
   height: 37px;
 }
 
+#main-icon {
+    display: inline-block;
+    border-radius: 60px;
+    background-color: #09a6db;
+    box-shadow: 0 0 2px #f9fafb;
+    padding: 0.5em 0.6em;
+}
  /* .social-links-2 a:hover {
   background: #e6d5e2;
   color: #fff;
   text-decoration: none;
 } */
 
+#cv-btn{
+margin-top: 20px;
+}
 
 #header .profile .social-links a:hover {
   background: #149ddd;
